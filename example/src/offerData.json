@@ -1,0 +1,65 @@
+[
+    {
+        "id" : 1,
+        "title" : "Shopping1",
+        "description" : "Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet",
+        "image" : "images/offers/offer-1.png",
+        "caption" : "Shopping"
+    },
+    {
+        "id" : 2,
+        "title" : "Shopping2xw",
+        "description" : "Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet",
+        "image" : "images/offers/offer-1.png",
+        "caption" : "Shopping"
+    },
+    {
+        "id" : 3,
+        "title" : "Shopping3",
+        "description" : "Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet",
+        "image" : "images/offers/offer-1.png",
+        "caption" : "Shopping"
+    },
+    {
+        "id" : 4,
+        "title" : "Shopping4",
+        "description" : "Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet",
+        "image" : "images/offers/offer-1.png",
+        "caption" : "Shopping"
+    },
+    {
+        "id" : 5,
+        "title" : "Shopping5",
+        "description" : "Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet",
+        "image" : "images/offers/offer-1.png",
+        "caption" : "Shopping"
+    },
+    {
+        "id" : 6,
+        "title" : "Shopping6",
+        "description" : "Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet",
+        "image" : "images/offers/offer-1.png",
+        "caption" : "Shopping"
+    },
+    {
+        "id" : 7,
+        "title" : "Shopping7",
+        "description" : "Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet",
+        "image" : "images/offers/offer-1.png",
+        "caption" : "Shopping"
+    },
+    {
+        "id" : 8,
+        "title" : "Shopping8",
+        "description" : "Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet",
+        "image" : "images/offers/offer-1.png",
+        "caption" : "Shopping"
+    },
+    {
+        "id" : 9,
+        "title" : "Shopping9",
+        "description" : "Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet",
+        "image" : "images/offers/offer-1.png",
+        "caption" : "Shopping"
+    }
+]

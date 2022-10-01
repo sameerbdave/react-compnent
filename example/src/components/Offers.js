@@ -9,7 +9,7 @@ import offerImg7 from "./../images/offers/offer-7.png"
 import offerImg8 from "./../images/offers/offer-8.png"
 import offerImg9 from "./../images/offers/offer-9.png"
 
-import OfferData from "./offerData.json";
+import OfferData from "./../offerData.json"
 
 const Offers = () =>{
     return(

@@ -1,11 +1,11 @@
 import './App.scss';
 import FormMobileOtp from './components/FormMobileOtp';
-import Offers from './components/Offers';
+import OfferCarosel from './components/OfferCarosel';
 
 function App() {
   return (
     <>
-      <Offers/>
+      <OfferCarosel />
       <FormMobileOtp/>
     </>
  
